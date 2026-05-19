@@ -1,0 +1,23 @@
+{
+  "name": "demoserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "dev": "nodemon src/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/97baluumed/demoserver.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/97baluumed/demoserver/issues"
+  },
+  "homepage": "https://github.com/97baluumed/demoserver#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
