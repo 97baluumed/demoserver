@@ -1,0 +1,26 @@
+[
+  {
+    "id": 4,
+    "title": "Мифы Ктулху",
+    "author": "Говард Лавкрафт",
+    "available": true
+  },
+  {
+    "id": 5,
+    "title": "Метро 2033",
+    "author": "Дмитрий Глуховский",
+    "available": true
+  },
+  {
+    "id": 6,
+    "title": "На дне",
+    "author": "Максим Горький",
+    "available": true
+  },
+  {
+    "id": 8,
+    "title": "Двадцать тысяч лье под водой",
+    "author": "Жюль Верн",
+    "available": true
+  }
+]
