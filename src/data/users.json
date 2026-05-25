@@ -1,10 +1,42 @@
 [
-    {
-        "id": 1,
-        "name": "Ivan"
-    },
-    {
-        "id": 2,
-        "name": "Petr"
-    }
+  {
+    "id": 4,
+    "name": "Max",
+    "borrowedBooks": []
+  },
+  {
+    "id": 5,
+    "name": "Ivan",
+    "borrowedBooks": []
+  },
+  {
+    "id": 6,
+    "name": "Петр",
+    "borrowedBooks": []
+  },
+  {
+    "id": 7,
+    "name": "Василий",
+    "borrowedBooks": []
+  },
+  {
+    "id": 9,
+    "name": "Алиса",
+    "borrowedBooks": []
+  },
+  {
+    "id": 10,
+    "name": "Владимир",
+    "borrowedBooks": []
+  },
+  {
+    "id": 12,
+    "name": "Алексей",
+    "borrowedBooks": []
+  },
+  {
+    "id": 13,
+    "name": "Екатерина",
+    "borrowedBooks": []
+  }
 ]
