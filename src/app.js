@@ -40,7 +40,7 @@ const server = http.createServer((request, response) => {
     response.end('Hello, World!');
 });
 
-const PORT = process.env.PORT || 3000;
+const PORT = process.env.PORT || 3003;
 
 server.listen(PORT, '127.0.0.1', () => {
     console.log(`Сервер запущен по адресу http://127.0.0.1:${PORT}`);
