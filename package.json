@@ -4,9 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node src/app.js",
-    "dev": "nodemon src/app.js"
-  },
+  "start": "node src/server.js",
+  "dev": "nodemon src/server.js"
+},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/97baluumed/demoserver.git"
@@ -19,5 +19,12 @@
   "homepage": "https://github.com/97baluumed/demoserver#readme",
   "devDependencies": {
     "nodemon": "^3.1.14"
+  },
+  "dependencies": {
+    "body-parser": "^2.2.2",
+    "cors": "^2.8.6",
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "mongoose": "^9.6.2"
   }
 }
